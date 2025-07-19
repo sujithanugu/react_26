@@ -34,7 +34,7 @@ const Comp3 = () => (
         <h1>Ist line</h1>
         <Comp1></Comp1>
         {Comp2()}
-        
+        {JsxHeadin()}
         {<h1 className="Heffioad">NamaFGreturste!! {100/2}</h1>}
     </div>
 );
