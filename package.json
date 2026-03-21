@@ -22,10 +22,24 @@
   },
   "homepage": "https://github.com/sujithanugu/react_25#readme",
   "devDependencies": {
-    "parcel": "^2.14.4"
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "https-browserify": "^1.0.0",
+    "parcel": "^2.14.4",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "util": "^0.12.5"
   },
   "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
-  }
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.3"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
