@@ -88,3 +88,16 @@
     border-radius:10%;
     cursor: pointer;
 }
+
+/***************************User*******************************/
+
+.user{
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0f0f0;
+}
+
+.user:hover{
+    border: 1px solid black;
+    cursor: pointer;
+}
